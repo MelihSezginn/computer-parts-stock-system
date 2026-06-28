@@ -1,0 +1,115 @@
+C:\Users\toshiba\source\repos\urunSatisOto\urunSatisOto\bin\Debug\urunSatisOto.exe.config
+C:\Users\toshiba\source\repos\urunSatisOto\urunSatisOto\bin\Debug\urunSatisOto.exe
+C:\Users\toshiba\source\repos\urunSatisOto\urunSatisOto\bin\Debug\urunSatisOto.pdb
+C:\Users\toshiba\source\repos\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.csprojAssemblyReference.cache
+C:\Users\toshiba\source\repos\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.Properties.Resources.resources
+C:\Users\toshiba\source\repos\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.csproj.GenerateResource.cache
+C:\Users\toshiba\source\repos\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\source\repos\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.exe
+C:\Users\toshiba\source\repos\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.pdb
+C:\Users\toshiba\source\repos\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.frmLogin.resources
+C:\Users\toshiba\source\repos\urunSatisOto\urunSatisOto\bin\Debug\EntityFramework.dll
+C:\Users\toshiba\source\repos\urunSatisOto\urunSatisOto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toshiba\source\repos\urunSatisOto\urunSatisOto\bin\Debug\EntityFramework.xml
+C:\Users\toshiba\source\repos\urunSatisOto\urunSatisOto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toshiba\source\repos\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.frmAnamenu.resources
+C:\Users\toshiba\source\repos\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.csproj.CopyComplete
+C:\Users\toshiba\source\repos\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.FrmUrunIslemleri.resources
+C:\Users\toshiba\source\repos\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.FrmMusteriIslemleri.resources
+C:\Users\ab154364\Downloads\urunSatisOto\urunSatisOto\urunSatisOto\bin\Debug\urunSatisOto.exe.config
+C:\Users\ab154364\Downloads\urunSatisOto\urunSatisOto\urunSatisOto\bin\Debug\urunSatisOto.exe
+C:\Users\ab154364\Downloads\urunSatisOto\urunSatisOto\urunSatisOto\bin\Debug\urunSatisOto.pdb
+C:\Users\ab154364\Downloads\urunSatisOto\urunSatisOto\urunSatisOto\bin\Debug\EntityFramework.dll
+C:\Users\ab154364\Downloads\urunSatisOto\urunSatisOto\urunSatisOto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ab154364\Downloads\urunSatisOto\urunSatisOto\urunSatisOto\bin\Debug\EntityFramework.xml
+C:\Users\ab154364\Downloads\urunSatisOto\urunSatisOto\urunSatisOto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ab154364\Downloads\urunSatisOto\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.csproj.AssemblyReference.cache
+C:\Users\ab154364\Downloads\urunSatisOto\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.csproj.SuggestedBindingRedirects.cache
+C:\Users\ab154364\Downloads\urunSatisOto\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.frmAnamenu.resources
+C:\Users\ab154364\Downloads\urunSatisOto\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.frmLogin.resources
+C:\Users\ab154364\Downloads\urunSatisOto\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.FrmMusteriIslemleri.resources
+C:\Users\ab154364\Downloads\urunSatisOto\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.FrmUrunIslemleri.resources
+C:\Users\ab154364\Downloads\urunSatisOto\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.Properties.Resources.resources
+C:\Users\ab154364\Downloads\urunSatisOto\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.csproj.GenerateResource.cache
+C:\Users\ab154364\Downloads\urunSatisOto\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.csproj.CoreCompileInputs.cache
+C:\Users\ab154364\Downloads\urunSatisOto\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.csproj.CopyComplete
+C:\Users\ab154364\Downloads\urunSatisOto\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.exe
+C:\Users\ab154364\Downloads\urunSatisOto\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.pdb
+C:\Users\ab154364\Downloads\urunSatisOto\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.FrmSatislar.resources
+D:\CSHARP\OTOMASYONLAR\urunSatisOto\urunSatisOto\urunSatisOto\bin\Debug\urunSatisOto.exe.config
+D:\CSHARP\OTOMASYONLAR\urunSatisOto\urunSatisOto\urunSatisOto\bin\Debug\urunSatisOto.exe
+D:\CSHARP\OTOMASYONLAR\urunSatisOto\urunSatisOto\urunSatisOto\bin\Debug\urunSatisOto.pdb
+D:\CSHARP\OTOMASYONLAR\urunSatisOto\urunSatisOto\urunSatisOto\bin\Debug\EntityFramework.dll
+D:\CSHARP\OTOMASYONLAR\urunSatisOto\urunSatisOto\urunSatisOto\bin\Debug\EntityFramework.SqlServer.dll
+D:\CSHARP\OTOMASYONLAR\urunSatisOto\urunSatisOto\urunSatisOto\bin\Debug\EntityFramework.xml
+D:\CSHARP\OTOMASYONLAR\urunSatisOto\urunSatisOto\urunSatisOto\bin\Debug\EntityFramework.SqlServer.xml
+D:\CSHARP\OTOMASYONLAR\urunSatisOto\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.csproj.AssemblyReference.cache
+D:\CSHARP\OTOMASYONLAR\urunSatisOto\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.csproj.SuggestedBindingRedirects.cache
+D:\CSHARP\OTOMASYONLAR\urunSatisOto\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.frmAnamenu.resources
+D:\CSHARP\OTOMASYONLAR\urunSatisOto\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.frmLogin.resources
+D:\CSHARP\OTOMASYONLAR\urunSatisOto\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.FrmMusteriIslemleri.resources
+D:\CSHARP\OTOMASYONLAR\urunSatisOto\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.FrmSatislar.resources
+D:\CSHARP\OTOMASYONLAR\urunSatisOto\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.FrmUrunIslemleri.resources
+D:\CSHARP\OTOMASYONLAR\urunSatisOto\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.Properties.Resources.resources
+D:\CSHARP\OTOMASYONLAR\urunSatisOto\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.csproj.GenerateResource.cache
+D:\CSHARP\OTOMASYONLAR\urunSatisOto\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.csproj.CoreCompileInputs.cache
+D:\CSHARP\OTOMASYONLAR\urunSatisOto\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.csproj.CopyComplete
+D:\CSHARP\OTOMASYONLAR\urunSatisOto\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.exe
+D:\CSHARP\OTOMASYONLAR\urunSatisOto\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.pdb
+C:\Users\Melihh\Desktop\Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\urunSatisOto\bin\Debug\urunSatisOto.exe
+C:\Users\Melihh\Desktop\Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\urunSatisOto\bin\Debug\urunSatisOto.exe.config
+C:\Users\Melihh\Desktop\Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\urunSatisOto\bin\Debug\EntityFramework.dll
+C:\Users\Melihh\Desktop\Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\urunSatisOto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Melihh\Desktop\Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\urunSatisOto\bin\Debug\EntityFramework.xml
+C:\Users\Melihh\Desktop\Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\urunSatisOto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Melihh\Desktop\Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.frmAnamenu.resources
+C:\Users\Melihh\Desktop\Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.frmLogin.resources
+C:\Users\Melihh\Desktop\Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.FrmMusteriIslemleri.resources
+C:\Users\Melihh\Desktop\Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.FrmSatislar.resources
+C:\Users\Melihh\Desktop\Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.FrmUrunIslemleri.resources
+C:\Users\Melihh\Desktop\Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.Properties.Resources.resources
+C:\Users\Melihh\Desktop\Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.csproj.GenerateResource.cache
+C:\Users\Melihh\Desktop\Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.csproj.CoreCompileInputs.cache
+C:\Users\Melihh\Desktop\Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.csproj.CopyComplete
+C:\Users\Melihh\Desktop\Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.exe
+C:\Users\Melihh\Desktop\Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.pdb
+C:\Users\Melihh\Desktop\Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\urunSatisOto\bin\Debug\urunSatisOto.pdb
+C:\Users\Melihh\Desktop\Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\urunSatisOto\obj\Debug\urunSatisOto.csproj.AssemblyReference.cache
+C:\Users\Melihh\Desktop\YEDEK FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\bin\Debug\urunSatisOto.exe.config
+C:\Users\Melihh\Desktop\YEDEK FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\bin\Debug\urunSatisOto.exe
+C:\Users\Melihh\Desktop\YEDEK FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\bin\Debug\urunSatisOto.pdb
+C:\Users\Melihh\Desktop\YEDEK FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\bin\Debug\EntityFramework.dll
+C:\Users\Melihh\Desktop\YEDEK FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Melihh\Desktop\YEDEK FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\bin\Debug\EntityFramework.xml
+C:\Users\Melihh\Desktop\YEDEK FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Melihh\Desktop\YEDEK FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\obj\Debug\urunSatisOto.csproj.AssemblyReference.cache
+C:\Users\Melihh\Desktop\YEDEK FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\obj\Debug\urunSatisOto.frmAnamenu.resources
+C:\Users\Melihh\Desktop\YEDEK FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\obj\Debug\urunSatisOto.frmLogin.resources
+C:\Users\Melihh\Desktop\YEDEK FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\obj\Debug\urunSatisOto.FrmMusteriIslemleri.resources
+C:\Users\Melihh\Desktop\YEDEK FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\obj\Debug\urunSatisOto.FrmSatislar.resources
+C:\Users\Melihh\Desktop\YEDEK FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\obj\Debug\urunSatisOto.FrmUrunIslemleri.resources
+C:\Users\Melihh\Desktop\YEDEK FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\obj\Debug\urunSatisOto.Properties.Resources.resources
+C:\Users\Melihh\Desktop\YEDEK FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\obj\Debug\urunSatisOto.csproj.GenerateResource.cache
+C:\Users\Melihh\Desktop\YEDEK FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\obj\Debug\urunSatisOto.csproj.CoreCompileInputs.cache
+C:\Users\Melihh\Desktop\YEDEK FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\obj\Debug\urunSatisOto.csproj.CopyComplete
+C:\Users\Melihh\Desktop\YEDEK FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\obj\Debug\urunSatisOto.exe
+C:\Users\Melihh\Desktop\YEDEK FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\obj\Debug\urunSatisOto.pdb
+C:\Users\Melihh\Desktop\FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\bin\Debug\urunSatisOto.exe.config
+C:\Users\Melihh\Desktop\FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\bin\Debug\urunSatisOto.exe
+C:\Users\Melihh\Desktop\FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\bin\Debug\urunSatisOto.pdb
+C:\Users\Melihh\Desktop\FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\bin\Debug\EntityFramework.dll
+C:\Users\Melihh\Desktop\FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Melihh\Desktop\FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\bin\Debug\EntityFramework.xml
+C:\Users\Melihh\Desktop\FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Melihh\Desktop\FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\obj\Debug\urunSatisOto.frmAnamenu.resources
+C:\Users\Melihh\Desktop\FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\obj\Debug\urunSatisOto.frmLogin.resources
+C:\Users\Melihh\Desktop\FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\obj\Debug\urunSatisOto.FrmMusteriIslemleri.resources
+C:\Users\Melihh\Desktop\FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\obj\Debug\urunSatisOto.FrmSatislar.resources
+C:\Users\Melihh\Desktop\FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\obj\Debug\urunSatisOto.FrmUrunIslemleri.resources
+C:\Users\Melihh\Desktop\FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\obj\Debug\urunSatisOto.Properties.Resources.resources
+C:\Users\Melihh\Desktop\FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\obj\Debug\urunSatisOto.csproj.GenerateResource.cache
+C:\Users\Melihh\Desktop\FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\obj\Debug\urunSatisOto.csproj.CoreCompileInputs.cache
+C:\Users\Melihh\Desktop\FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\obj\Debug\urunSatisOto.csproj.CopyComplete
+C:\Users\Melihh\Desktop\FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\obj\Debug\urunSatisOto.exe
+C:\Users\Melihh\Desktop\FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\obj\Debug\urunSatisOto.pdb
+C:\Users\Melihh\Desktop\FİNAL Melih Sezgin PC Parçaları Yönlendirme Çalışma\urunSatisOto\obj\Debug\urunSatisOto.csproj.AssemblyReference.cache

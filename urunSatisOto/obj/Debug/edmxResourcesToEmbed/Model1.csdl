@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DbUrunSatisModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TblMusteriler">
+    <Key>
+      <PropertyRef Name="musteriID" />
+    </Key>
+    <Property Name="musteriID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="soyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="adres" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="tel" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="durum" Type="Boolean" />
+    <NavigationProperty Name="TblSatislar" Relationship="Self.FK_TblSatislar_TblMusteriler" FromRole="TblMusteriler" ToRole="TblSatislar" />
+  </EntityType>
+  <EntityType Name="TblSatislar">
+    <Key>
+      <PropertyRef Name="satisID" />
+    </Key>
+    <Property Name="satisID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="urun" Type="Int32" />
+    <Property Name="musteri" Type="Int32" />
+    <Property Name="adet" Type="Int32" />
+    <Property Name="toplamFiyat" Type="Int32" />
+    <Property Name="tarih" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="TblMusteriler" Relationship="Self.FK_TblSatislar_TblMusteriler" FromRole="TblSatislar" ToRole="TblMusteriler" />
+    <NavigationProperty Name="TblUrunler" Relationship="Self.FK_TblSatislar_TblUrunler" FromRole="TblSatislar" ToRole="TblUrunler" />
+  </EntityType>
+  <EntityType Name="TblUrunler">
+    <Key>
+      <PropertyRef Name="urunID" />
+    </Key>
+    <Property Name="urunID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="urunAd" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="stok" Type="Int32" />
+    <Property Name="alisFiyat" Type="Int32" />
+    <Property Name="satisFiyat" Type="Int32" />
+    <Property Name="durum" Type="Boolean" />
+    <NavigationProperty Name="TblSatislar" Relationship="Self.FK_TblSatislar_TblUrunler" FromRole="TblUrunler" ToRole="TblSatislar" />
+  </EntityType>
+  <Association Name="FK_TblSatislar_TblMusteriler">
+    <End Role="TblMusteriler" Type="Self.TblMusteriler" Multiplicity="0..1" />
+    <End Role="TblSatislar" Type="Self.TblSatislar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TblMusteriler">
+        <PropertyRef Name="musteriID" />
+      </Principal>
+      <Dependent Role="TblSatislar">
+        <PropertyRef Name="musteri" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TblSatislar_TblUrunler">
+    <End Role="TblUrunler" Type="Self.TblUrunler" Multiplicity="0..1" />
+    <End Role="TblSatislar" Type="Self.TblSatislar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TblUrunler">
+        <PropertyRef Name="urunID" />
+      </Principal>
+      <Dependent Role="TblSatislar">
+        <PropertyRef Name="urun" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DbUrunSatisEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="TblMusteriler" EntityType="Self.TblMusteriler" />
+    <EntitySet Name="TblSatislar" EntityType="Self.TblSatislar" />
+    <EntitySet Name="TblUrunler" EntityType="Self.TblUrunler" />
+    <AssociationSet Name="FK_TblSatislar_TblMusteriler" Association="Self.FK_TblSatislar_TblMusteriler">
+      <End Role="TblMusteriler" EntitySet="TblMusteriler" />
+      <End Role="TblSatislar" EntitySet="TblSatislar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TblSatislar_TblUrunler" Association="Self.FK_TblSatislar_TblUrunler">
+      <End Role="TblUrunler" EntitySet="TblUrunler" />
+      <End Role="TblSatislar" EntitySet="TblSatislar" />
+    </AssociationSet>
+    <FunctionImport Name="satisListesi" ReturnType="Collection(DbUrunSatisModel.satisListesi_Result)" />
+    <FunctionImport Name="satisListesi2" ReturnType="Collection(DbUrunSatisModel.satisListesi2_Result)" />
+  </EntityContainer>
+  <ComplexType Name="satisListesi_Result">
+    <Property Type="Int32" Name="satisID" Nullable="false" />
+    <Property Type="String" Name="Ürün_Adı" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="C_Ad_Soyad" Nullable="true" MaxLength="101" />
+    <Property Type="Int32" Name="adet" Nullable="true" />
+    <Property Type="Int32" Name="Toplam_Fiyat" Nullable="true" />
+    <Property Type="DateTime" Name="tarih" Nullable="true" Precision="16" />
+  </ComplexType>
+  <ComplexType Name="satisListesi2_Result">
+    <Property Type="Int32" Name="satisID" Nullable="false" />
+    <Property Type="String" Name="Ürün_Adı" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="Ad_Soyad" Nullable="true" MaxLength="101" />
+    <Property Type="Int32" Name="adet" Nullable="true" />
+    <Property Type="Int32" Name="Toplam_Fiyat" Nullable="true" />
+    <Property Type="DateTime" Name="tarih" Nullable="true" Precision="16" />
+  </ComplexType>
+</Schema>
