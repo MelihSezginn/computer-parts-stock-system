@@ -1,12 +1,5 @@
 # 💻 Bilgisayar Parça Satış ve Stok Takip Sistemi
 
-## 👨‍💻 Proje Bilgileri
-
-**Proje Adı:** Bilgisayar Parça Satış ve Stok Takip Sistemi  
-**Hazırlayan:** Melih Sezgin  
-**Numara:** 2024 325 0064  
-**Ders:** Yönlendirilmiş Çalışma / Veritabanı Yönetimi  
-
 ---
 
 ## 📌 Proje Açıklaması
@@ -52,14 +45,24 @@ Yetkisiz erişimler engellenerek sistem güvenliği sağlanmaktadır.
 <img src="https://i.hizliresim.com/fxxmkbl.png" width="auto">
 
 ### 🖥️ Ana Ekran
-<img src=" " width="auto">
+<img src="https://i.hizliresim.com/ov73d6d.png" width="auto">
 
 ### 📦 Ürün Listeleme
-<img src=" " width="auto">
+<img src="https://i.hizliresim.com/70vjulc.png" width="auto">
+
+### 👤 Müşteri İşlemleri
+<img src="https://i.hizliresim.com/o845tfm.png" width="auto">
 
 ### 💰 Satış Ekranı
-<img src=" " width="auto">
+<img src="https://i.hizliresim.com/twgxdf2.png" width="auto">
 
 ---
+## 📌 Not
 
-## 📁 Proje Dosya Yapısı
+Bu proje C# Windows Forms ve SQL Server kullanılarak geliştirilmiştir.
+---
+
+## ⚠️ ÖNEMLİ NOT
+
+Bu proje **eğitim ve örnek amaçlıdır**.  
+Projede `.sql` veritabanı dosyası bulunmadığı için doğrudan çalıştırıldığınızda hata verebilir veya veri tabanı bağlantısı eksik olabilir.
