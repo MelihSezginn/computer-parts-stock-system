@@ -64,5 +64,18 @@ Bu proje C# Windows Forms ve SQL Server kullanılarak geliştirilmiştir.
 
 ## ⚠️ ÖNEMLİ NOT
 
-Bu proje **eğitim ve örnek amaçlıdır**.  
-Projede `.sql` veritabanı dosyası bulunmadığı için doğrudan çalıştırıldığınızda hata verebilir veya veri tabanı bağlantısı eksik olabilir.
+Bu proje eğitim ve örnek amaçlı geliştirilmiştir.  
+
+Projeye ait `.sql` veritabanı dosyası şahsi olarak silinmiştir.  
+Bu nedenle proje doğrudan çalıştırıldığında veritabanı bağlantısı hatası alınabilir.
+
+Veritabanı dosyasına ihtiyaç duyan kişiler benimle iletişime geçebilir.  
+Talep edilmesi durumunda dosya **e-posta üzerinden paylaşılabilir**.
+
+---
+## 📬 İletişim
+
+Veritabanı dosyası (.sql) talep eden kişiler benimle iletişime geçebilir.  
+Talep edilmesi durumunda proje dosyaları e-posta üzerinden paylaşılabilir.
+
+📧 E-posta: melihsezgin25@gmail.com
